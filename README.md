@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on AI-assisted drug design (AIDD)<br>- 🌱 I’m currently learning bioinformatics, artificial intelligence (deep learning & reinforcement learning), and drug design.<br>- 🤔 I'm looking for support in the AIDD field and would love to connect and collaborate with experts.<br>- 💬 Feel free to chat with me about molecular generation, AI in drug discovery, AIDD, computational chemistry, computational biology, or any tech-related topics (cameras, drones, hardware, software, etc.)!<br>- 😄 I'm always happy to make new friends and connect with like-minded people!<br>- 📫 How to reach me: lakiao@lakiao.cn / lakiao233@gmail.com<br>- 😄 Pronouns: They/Them (Feel free to ask if you're curious!)<br>- ⚡ Fun fact: You’ll find out when you talk to me!</p>
+<p align="left">- 🔭 I’m currently working on AI-assisted drug design (AIDD)<br>- 🌱 I’m currently learning bioinformatics, artificial intelligence (deep learning & reinforcement learning), and drug design.<br>- 💬 Feel free to chat with me about AI in drug discovery, AIDD, computational chemistry, computational biology, or any tech-related topics (cameras, drones, hardware, software, etc.)!<br>- 😄 I'm always happy to make new friends and connect with like-minded people!<br>- 📫 How to reach me: lakiao@lakiao.cn / lakiao233@gmail.com<br>- ⚡ Fun fact: You’ll find out when you talk to me!</p>
 
 ###
 
